@@ -1,1 +1,0 @@
-myList = ["Jacob","John"]
