@@ -21,10 +21,14 @@ congressional election.
 
 ## Election-Audit Results
 
-## Terminal printout of Results
+Jefferson: 10.5% (38,855)
+Denver: 82.8% (306,055)
+Arapahoe: 6.7% (24,801)
+### Terminal printout of Results
 ![terminal output](https://user-images.githubusercontent.com/111443997/189559240-5341790a-8987-4d86-ba0c-757a2adeca8e.png)
 
-## Text file printout of Results
+### Text file printout of Results
+![txt file output](https://user-images.githubusercontent.com/111443997/189559351-1c5c1a8e-c08d-4958-8d00-a8f9b8d7ea8f.png)
 
 
 
