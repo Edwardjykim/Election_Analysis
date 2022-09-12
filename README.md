@@ -21,18 +21,38 @@ congressional election.
 
 ## Election-Audit Results
 
-Jefferson: 10.5% (38,855)
-Denver: 82.8% (306,055)
-Arapahoe: 6.7% (24,801)
-### Terminal printout of Results
+1. Total Votes in the Colorado Board of Elecion: 
+- 369,711
+
+2. Votes by County:
+- Jefferson: 10.5% (38,855)
+- Denver: 82.8% (306,055)
+- Arapahoe: 6.7% (24,801)
+
+3. Largest County Turnout:
+- Largest County Turnout: Denver
+- Winning County Vote: 306,055
+- Winning County Percentage: 82.8%
+
+4. Votes by Candidate:
+- Charles Casper Stockham: 23.0% (85,213)
+- Diana DeGette: 73.8% (272,892)
+- Raymon Anthony Doane: 3.1% (11,606)
+
+5. Winner of the Election:
+- Winner: Diana DeGette
+- Winning Vote Count: 272,892
+- Winning Percentage: 73.8%
+
+### Terminal printout Results
 ![terminal output](https://user-images.githubusercontent.com/111443997/189559240-5341790a-8987-4d86-ba0c-757a2adeca8e.png)
 
-### Text file printout of Results
+### Text file printout Results
 ![txt file output](https://user-images.githubusercontent.com/111443997/189559351-1c5c1a8e-c08d-4958-8d00-a8f9b8d7ea8f.png)
 
-
-
 ## Election-Audit Summary
+
+
 
 The analysis of the election show that:
 
