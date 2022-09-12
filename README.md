@@ -21,6 +21,12 @@ congressional election.
 
 ## Election-Audit Results
 
+## Terminal printout of Results
+![terminal output](https://user-images.githubusercontent.com/111443997/189559240-5341790a-8987-4d86-ba0c-757a2adeca8e.png)
+
+## Text file printout of Results
+
+
 
 ## Election-Audit Summary
 
