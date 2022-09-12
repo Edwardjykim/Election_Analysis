@@ -52,8 +52,13 @@ congressional election.
 
 ## Election-Audit Summary
 
+This script is very general and useful method.  It could be modify and expend to use in different county or states with few more datasets.
+For example, using this script, it can develope each county to the other county until it reached to whole one state.  It will be easy to nevigate for each county election audit state by state.
+Also, could make demographic data, than apply back to this script to determine which race, sex, or age group contributed to this votes.
+Then these analysis will deliver demographic outlook with each county by county per state election audit clear, enhanced view.
 
 
-The analysis of the election show that:
+
+
 
     
