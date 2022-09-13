@@ -45,7 +45,8 @@ congressional election.
 - Winning Percentage: 73.8%
 
 ### Terminal printout Results
-![terminal output](https://user-images.githubusercontent.com/111443997/189559240-5341790a-8987-4d86-ba0c-757a2adeca8e.png)
+![Terminal](https://user-images.githubusercontent.com/111443997/189789556-629f5b79-66ec-411a-949f-bc5ee27ab24f.png)
+
 
 ### Text file printout Results
 ![txt file output](https://user-images.githubusercontent.com/111443997/189559351-1c5c1a8e-c08d-4958-8d00-a8f9b8d7ea8f.png)
