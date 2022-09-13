@@ -49,7 +49,8 @@ congressional election.
 
 
 ### Text file printout Results
-![txt file output](https://user-images.githubusercontent.com/111443997/189559351-1c5c1a8e-c08d-4958-8d00-a8f9b8d7ea8f.png)
+![txt file](https://user-images.githubusercontent.com/111443997/189789641-0eb6c2a6-76bd-4920-993d-5a8a00cc2ebf.png)
+
 
 ## Election-Audit Summary
 
